@@ -46,7 +46,10 @@ MEDV - Median value of owner-occupied homes in $1000's
 | 9 | 0.55 | Poly | 1.27 | 6.87 |
 | 10 | 0.54 | Poly | 0.34 | 5.50 |
 
-## Convergence Graph
+## Convergence
+![Capture](https://user-images.githubusercontent.com/72068525/233195004-435d05b2-1052-4f6f-8a17-8980db1e074b.JPG)
+
+ Graph
 
 ## Discussion
 From the above graph, we can conclude that the model is well trained and parameter have been optimized.
